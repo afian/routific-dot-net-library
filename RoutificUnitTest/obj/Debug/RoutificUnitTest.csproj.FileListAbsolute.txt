@@ -1,0 +1,91 @@
+D:\project\RoutificProjects\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll
+D:\project\RoutificProjects\RoutificUnitTest\bin\Debug\RoutificUnitTest.pdb
+D:\project\RoutificProjects\RoutificUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\project\RoutificProjects\RoutificUnitTest\bin\Debug\Routific.dll
+D:\project\RoutificProjects\RoutificUnitTest\bin\Debug\Routific.pdb
+D:\project\RoutificProjects\RoutificUnitTest\obj\Debug\RoutificUnitTest.csprojResolveAssemblyReference.cache
+D:\project\RoutificProjects\RoutificUnitTest\obj\Debug\RoutificUnitTest.dll
+D:\project\RoutificProjects\RoutificUnitTest\obj\Debug\RoutificUnitTest.pdb
+D:\project\RoutificProjects\RoutificUnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\project\RoutificProjects\RoutificUnitTest\bin\Debug\Newtonsoft.Json.xml
+F:\project\routific\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll
+F:\project\routific\RoutificUnitTest\bin\Debug\RoutificUnitTest.pdb
+F:\project\routific\RoutificUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\project\routific\RoutificUnitTest\bin\Debug\Newtonsoft.Json.dll
+F:\project\routific\RoutificUnitTest\bin\Debug\Routific.dll
+F:\project\routific\RoutificUnitTest\bin\Debug\Routific.pdb
+F:\project\routific\RoutificUnitTest\bin\Debug\Newtonsoft.Json.xml
+F:\project\routific\RoutificUnitTest\obj\Debug\RoutificUnitTest.csprojResolveAssemblyReference.cache
+F:\project\routific\RoutificUnitTest\obj\Debug\RoutificUnitTest.dll
+F:\project\routific\RoutificUnitTest\obj\Debug\RoutificUnitTest.pdb
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\bin\Debug\RoutificUnitTest.pdb
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\bin\Debug\Routific.dll
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\bin\Debug\Routific.pdb
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\obj\Debug\RoutificUnitTest.csprojResolveAssemblyReference.cache
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\obj\Debug\RoutificUnitTest.csproj.CoreCompileInputs.cache
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\obj\Debug\RoutificUnitTest.dll
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\obj\Debug\RoutificUnitTest.pdb
+D:\WebFashion\Sorcecode\teddy\routific-master-8bf17e3758be8576899b6fb760e943c314eebc58\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll.config
+C:\Users\Admin\Desktop\routific-feedback\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll.config
+C:\Users\Admin\Desktop\routific-feedback\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll
+C:\Users\Admin\Desktop\routific-feedback\RoutificUnitTest\bin\Debug\RoutificUnitTest.pdb
+C:\Users\Admin\Desktop\routific-feedback\RoutificUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\Desktop\routific-feedback\RoutificUnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\routific-feedback\RoutificUnitTest\bin\Debug\Routific.dll
+C:\Users\Admin\Desktop\routific-feedback\RoutificUnitTest\bin\Debug\Routific.pdb
+C:\Users\Admin\Desktop\routific-feedback\RoutificUnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\routific-feedback\RoutificUnitTest\obj\Debug\RoutificUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\routific-feedback\RoutificUnitTest\obj\Debug\RoutificUnitTest.dll
+C:\Users\Admin\Desktop\routific-feedback\RoutificUnitTest\obj\Debug\RoutificUnitTest.pdb
+D:\project\routific\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll.config
+D:\project\routific\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll
+D:\project\routific\RoutificUnitTest\bin\Debug\RoutificUnitTest.pdb
+D:\project\routific\RoutificUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\project\routific\RoutificUnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\project\routific\RoutificUnitTest\bin\Debug\Routific.dll
+D:\project\routific\RoutificUnitTest\bin\Debug\Routific.pdb
+D:\project\routific\RoutificUnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\project\routific\RoutificUnitTest\obj\Debug\RoutificUnitTest.csprojResolveAssemblyReference.cache
+D:\project\routific\RoutificUnitTest\obj\Debug\RoutificUnitTest.dll
+D:\project\routific\RoutificUnitTest\obj\Debug\RoutificUnitTest.pdb
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll.config
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\bin\Debug\RoutificUnitTest.pdb
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\bin\Debug\Routific.dll
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\bin\Debug\Routific.pdb
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\obj\Debug\RoutificUnitTest.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\obj\Debug\RoutificUnitTest.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\obj\Debug\RoutificUnitTest.dll
+\\Mac\Home\Desktop\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\routific-master-943ac329057ac6a8c4b9c0fcd4e7929e24fd5a93\RoutificUnitTest\obj\Debug\RoutificUnitTest.pdb
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll.config
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\bin\Debug\RoutificUnitTest.pdb
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\bin\Debug\Routific.dll
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\bin\Debug\Routific.pdb
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\obj\Debug\RoutificUnitTest.csprojResolveAssemblyReference.cache
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\obj\Debug\RoutificUnitTest.csproj.CoreCompileInputs.cache
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\obj\Debug\RoutificUnitTest.csproj.CopyComplete
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\obj\Debug\RoutificUnitTest.dll
+D:\WebFashion\Sorcecode\teddy\jamesla0604-routific-dot-net-library-57b7294f8227\jamesla0604-routific-dot-net-library-57b7294f8227\RoutificUnitTest\obj\Debug\RoutificUnitTest.pdb
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll.config
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\bin\Debug\RoutificUnitTest.dll
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\bin\Debug\RoutificUnitTest.pdb
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\bin\Debug\Routific.dll
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\bin\Debug\Routific.pdb
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\obj\Debug\RoutificUnitTest.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\obj\Debug\RoutificUnitTest.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\obj\Debug\RoutificUnitTest.dll
+\\Mac\Home\Desktop\routific 2\RoutificUnitTest\obj\Debug\RoutificUnitTest.pdb
